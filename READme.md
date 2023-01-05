@@ -22,13 +22,12 @@ This is a website that implements everything I have learnt from Bootstrap, Javas
 To run this program:
 
 ```
-$ Fork the repository from my git hub.
-$ Clone this repository to a location in your file system.
-$ Open terminal command line then navigate to the root folder of the application.
-$ Run the code from VS Code or Atom through a liveserver to chrome browser.
-$ Make changes where need be.
+- Fork the `Delani-Studio` repository from my Github account.
+- Clone this repository to a location in your file system.
+- Open terminal command line then navigate to the root folder of the application.
+- Run the code from VS Code or Atom through a liveserver to chrome browser.
 ```
-## Behaviour Driven Development (BDD)
+## Behaviour Driven Development
 This webpage is documented and designed around the behavior a user expects to experience when interacting with it.
 
 | Behavior                                                                                                                                                                                                                                                                                   | input                                                     | output                                                                                                                       |
